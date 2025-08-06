@@ -10,7 +10,6 @@ A simple console-based To-Do List application built with C++. It allows users to
 )
 
 **💻 Technologies Used**
-**Frontend** (Client-Side)
 HTML – Structure of web pages
 CSS – Styling and layout
 JavaScript – Interactive behavior
